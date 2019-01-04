@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HashMapTryOne</string>
+    <string name="intro">intro</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+</resources>
